@@ -54,3 +54,8 @@ git clone https://github.com/deevo-sage/nvim-config ~/.config/nvim
 # fonts
 # https://www.nerdfonts.com/font-downloads
 # caskaydiacode(*), firacode
+
+echo "export ANDROID_HOME=/Users/sidharthsahni/Library/Android/sdk" >> ~/.zshrc
+echo "export ANDROID_SDK_ROOT=/Users/sidharthsahni/Library/Android/sdk" >> ~/.zshrc
+echo "export ANDROID_AVD_HOME=/Users/sidharthsahni/.android/avd" >> ~/.zshrc
+echo "export JAVA_HOME=/Library/Java/JavaVirtualMachines/openjdk-17.jdk/Contents/Home" >> ~/.zshrc
