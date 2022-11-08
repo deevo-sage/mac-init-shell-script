@@ -7,6 +7,7 @@ brew install yarn
 brew install python
 brew install --cask google-chrome
 brew install fish
+brew install cocoapods
 # rust
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
