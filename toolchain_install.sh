@@ -29,7 +29,7 @@ brew install --cask warp
 brew install --cask visual-studio-code
 # kitty
 curl -L https://sw.kovidgoyal.net/kitty/installer.sh | sh /dev/stdin
-brew install --cask kitty
+# brew install --cask kitty
 # brew install --cask flipper
 
 echo random apps
