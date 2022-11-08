@@ -8,6 +8,8 @@ brew install python
 brew install --cask google-chrome
 brew install fish
 brew install cocoapods
+brew install java
+brew install openjdk@17
 # rust
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
@@ -31,6 +33,8 @@ brew install --cask karabiner-elements # for changing keybindings
 brew install --cask spotify
 brew install --cask vlc
 brew install --cask obs
+brew install --cask discord
+brew install --cask notion
 
 echo github login
 
