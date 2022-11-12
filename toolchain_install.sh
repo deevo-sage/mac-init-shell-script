@@ -10,6 +10,9 @@ brew install fish
 brew install cocoapods
 brew install java
 brew install openjdk@17
+# installs next line with itself
+# boost, double-conversion, fmt, gflags, glog, libevent, snappy, folly, edencommon, libsodium, fizz, wangle, fbthrift, fb303, mpdecimal, sqlite and python@3.10
+brew install watchman
 # rust
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
